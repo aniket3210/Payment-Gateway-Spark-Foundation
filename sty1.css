@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <title>Janjeevan Charitable Trust</title>
+        <link rel="stylesheet" type="text/css" href="styy.css">
+    </head>
+    <body>
+        <header>
+            <div class="Main">
+                <div class="logo">
+                    <img src="DS.jpg">
+                </div>
+                <ul>
+                    <li class="active"><a href="#" target=_blank>Home</a></li>
+                    <li><a href="http://localhost/xampp/Host/about.php" target=_blank>About</a></li>
+                    <li><a href="https://www.linkedin.com/in/siddheshvar-patil-9788b0217" target=_blank>Contact</a></li>
+                    <li><form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_I0B07q3HTWrpt2" async> </script> </form></li>
+                </ul>
+            </div>
+            <div class="title">
+                <h1>Janjeevan Charitable Trust</h1>
+            </div>
+             <!--Slogan-->
+             <div class="slogan">
+                <p><span>Donate with us</span> to support Orphan's who lost their parents.</p>
+            </div>
+            <div class="button">
+                <a href="https://www.soschildrensvillages.ca/india" target=_blank class="btn">Today's Orphans</a>
+                <a href="https://sjsa.maharashtra.gov.in/mr/ashram-shala-mr" target=_blank class="btn">Learn More</a>
+            </div>
+        </header>
+    </body>
+</html>
+
+<!-- footer -->
+<footer class="text-center mt-4 py-2">
+    <p>&copy 2021. Made by <b>Siddheshvar Patil</b><br>GRIP TheSparksFoundation.</p>
+</footer>
